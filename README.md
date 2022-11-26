@@ -15,6 +15,7 @@
 
 ## Data Science Portfolio
 <img align = "right" width = "200" src = "https://i.imgur.com/p7um1ZK.png">
+<br clear="left"/>
 1. To be added
 <br>
 <br>
@@ -26,4 +27,6 @@
 
 # Ai and ML Portfolio
 <img align = "right" width = "200" src = "https://i.imgur.com/hEAIS0j.png">
+<br clear="left"/>
 1. To be added
+<br>
