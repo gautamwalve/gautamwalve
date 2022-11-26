@@ -5,7 +5,7 @@
 ## Python Portfolio
 
 <img align = "right" width = "200" src = "https://img.icons8.com/clouds/512/python.png">
-<br clear="left"/>
+<br clear= "left"/>
 1. Mad-Libs Generator | Complexity : Beginner | <br>
 2. Dice Rolling Simulator | Complexity : Beginner | <br>
 3. Random Number Guessing | Complexity : Beginner | <br>
@@ -15,7 +15,7 @@
 
 ## Data Science Portfolio
 <img align = "right" width = "200" src = "https://i.imgur.com/p7um1ZK.png">
-<br clear="left"/>
+<br clear= "left"/>
 1. To be added
 <br>
 <br>
@@ -23,10 +23,11 @@
 <br>
 <br>
 <br>
-<br>
+</details>
 
 # Ai and ML Portfolio
 <img align = "right" width = "200" src = "https://i.imgur.com/hEAIS0j.png">
-<br clear="left"/>
+<br clear= "left"/>
 1. To be added
 <br>
+</details>
