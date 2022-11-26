@@ -1,5 +1,4 @@
-# Hi I am Gautam.<br> 
-## These are the projects that i have working/ worked on<br>
+## These are the projects that i have been working/ worked on<br>
 <!--<details> -->
 <!--<summary> </summary> -->
 ## Python Portfolio
