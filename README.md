@@ -11,9 +11,11 @@
 3. Random Number Guessing | Complexity : Beginner | <br>
 4. Text Based adventure Game | Complexity : Beginner | <br> 
 5. Cold Lead Capture | Complexity : Intermediate | <br>
+<br>
 </details>
 
 ## Data Science Portfolio
+
 <img align = "right" width = "200" src = "https://i.imgur.com/p7um1ZK.png">
 <br clear= "left"/>
 1. To be added
