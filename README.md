@@ -21,7 +21,7 @@
 <br clear= "left"/>
 1. Exploratory Data Analysis<br>
 <pre>
-    a. Investment Analysis : Spark Funds LLP
+    a. Investment Analysis : Spark Funds LLP :  <strong>WIP</strong>
 </pre>
 <br>
 <br>
