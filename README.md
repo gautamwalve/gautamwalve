@@ -1,4 +1,4 @@
-## <a id="raw-url" href="[https://raw.githubusercontent.com/github-username/project/master/filename](https://131c20cb-820d-4207-ae00-17ad459e1c88.filesusr.com/ugd/751290_62cd2f72ecfd495fb3a520ea9f54c4b3.pdf)">Click to download my Resume</a>
+## <a id="raw-url" href="https://131c20cb-820d-4207-ae00-17ad459e1c88.filesusr.com/ugd/751290_62cd2f72ecfd495fb3a520ea9f54c4b3.pdf" download = "https://131c20cb-820d-4207-ae00-17ad459e1c88.filesusr.com/ugd/751290_62cd2f72ecfd495fb3a520ea9f54c4b3.pdf">Click to download my Resume</a>
 
 ## These are the projects that i have been working/ worked on<br>
 <!--<details> -->
