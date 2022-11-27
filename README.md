@@ -19,7 +19,10 @@
 
 <img align = "right" width = "200" src = "https://i.imgur.com/p7um1ZK.png">
 <br clear= "left"/>
-1. To be added
+1. Exploratory Data Analysis<br>
+<pre>
+    a. Investment Analysis : Spark Funds LLP
+</pre>
 <br>
 <br>
 <br>
