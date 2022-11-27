@@ -1,6 +1,6 @@
-## <a id="raw-url" href="https://7512908d-453b-46b4-8fa8-0d0ce5843018.usrfiles.com/ugd/751290_cb6a88ea32b84ed39b24e43a19497f44.pdf" download = "https://7512908d-453b-46b4-8fa8-0d0ce5843018.usrfiles.com/ugd/751290_cb6a88ea32b84ed39b24e43a19497f44.pdf">Click to download my Resume</a>
+### <a id="raw-url" href="https://7512908d-453b-46b4-8fa8-0d0ce5843018.usrfiles.com/ugd/751290_cb6a88ea32b84ed39b24e43a19497f44.pdf" download = "https://7512908d-453b-46b4-8fa8-0d0ce5843018.usrfiles.com/ugd/751290_cb6a88ea32b84ed39b24e43a19497f44.pdf">Click to download my Resume</a>
 
-## These are the projects that i have been working/ worked on<br>
+## These are the projects that i have been working/ worked on
 <!--<details> -->
 <!--<summary> </summary> -->
 ## Python Portfolio
