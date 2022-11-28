@@ -15,6 +15,7 @@ A. Level : Beginner
 |2.|Dice Rolling Simulator |Beginner | Completed| <br>
 |3.|Random Number Guessing |Beginner | Completed| <br>
 |4.|Text Based Adventure Game |Beginner | Completed| <br> 
+|5.|HangMan|Beginner|in Progress|<br>
 
 B. Level : Intermediate
 |SN|Project Name          |Complexity   |Status|
